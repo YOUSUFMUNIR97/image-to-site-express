@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import spaceBackground from "@/assets/space-background.jpg";
+import spaceBackground from "@/assets/space-background-hd.jpg";
 
 const ZoriaHero = () => {
   const handleGetInTouch = () => {
